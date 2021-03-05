@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Users\User\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\User\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\User\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Users\User\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Users\User\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.pdb

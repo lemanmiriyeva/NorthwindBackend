@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\User\source\repos\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\User\source\repos\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.pdb
